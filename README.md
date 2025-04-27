@@ -1,5 +1,4 @@
-# Matlab-Import-Pytorch-Network
-
+# This project is a tutorial on how to load Pytorch deep learning models in Matlab.
 
 MatlabCode folder:
 
